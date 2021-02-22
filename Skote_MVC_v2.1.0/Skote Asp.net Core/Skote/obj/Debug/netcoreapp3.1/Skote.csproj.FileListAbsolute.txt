@@ -1,0 +1,1025 @@
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\Skote.exe
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.RazorAssemblyInfo.cache
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.RazorAssemblyInfo.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.TagHelpers.input.cache
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.TagHelpers.output.cache
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.RazorCoreGenerate.cache
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.RazorTargetAssemblyInfo.cache
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.RazorTargetAssemblyInfo.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\staticwebassets\Skote.StaticWebAssets.Manifest.cache
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\staticwebassets\Skote.StaticWebAssets.xml
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\Skote.deps.json
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\Skote.runtimeconfig.json
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\Skote.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\Skote.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\Skote.pdb
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\Skote.Views.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\Skote.Views.pdb
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.Views.pdb
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.csproj.CopyComplete
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.dll
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.pdb
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\AuthLockScreen\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\source\repos\Skote\Skote\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\AuthLogin\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\AuthRegister\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\Calendar\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\Chat\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ContactsList\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ContactsProfile\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\CryptoBuySell\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\CryptoExchange\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\CryptoIcoLanding\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\CryptoKycApplication\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\CryptoLending\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\CryptoOrders\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\CryptoWallet\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\DashboardSaas\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EcommerceAddProduct\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EcommerceCart\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EcommerceCheckout\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EcommerceCustomers\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EcommerceOrders\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EcommerceProductDetail\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EcommerceProducts\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EcommerceShops\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EmailInbox\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EmailRead\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\FormAdvanced\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\FormEditors\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\FormElements\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\FormLayouts\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\FormMask\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\FormRepeater\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\FormUploads\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\FormValidation\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\FormWizard\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\FormXeditable\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\IconsBoxicons\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\IconsDripicons\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\IconsFontAwesome\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\IconsMaterialDesign\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\IndexRtl\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\index\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\InvoicesDetail\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\InvoicesList\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsBoxed\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsColoredSidebar\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsCompactSidebar\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsHBoxed\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsHColored\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsHTopbarLight\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsHorizontal\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsIconSidebar\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsLightSidebar\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsPreloader\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsScrollable\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\MapsGoogle\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\MapsLeaflet\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\MapsVector\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\Pages404\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\Pages500\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\PagesComingsoon\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\PagesFaqs\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\PagesMaintenance\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\PagesPricing\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\PagesStarter\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\PagesTimeline\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ProjectsCreate\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ProjectsGrid\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ProjectsList\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ProjectsOverview\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\TablesBasic\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\TablesDatatable\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\TablesEditable\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\TablesResponsive\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\TasksCreate\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\TasksKanban\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\TasksList\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiAlerts\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiButtons\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiCards\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiCarousel\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiColors\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiDropdowns\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiGeneral\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiGrid\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiImageCropper\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiImages\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiLightbox\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiModals\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiNotifications\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiProgressbars\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiRangeSlider\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiRating\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiSessionTimeout\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiSweetAlert\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiTabsAccordions\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiTypography\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiVideo\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\AuthRecoverpw\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ChartsApex\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ChartsChartjs\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ChartsEchart\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ChartsFlot\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ChartsKnob\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ChartsSparkline\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ChartsTui\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ContactsGrid\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\DashboardCrypto\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\Error.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\Layouts\_layout_boxed.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\Layouts\_layout_colored_sidebar.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\Layouts\_layout_compact_sidebar.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\Layouts\_layout_horizontal.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\Layouts\_layout_icon_sidebar.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\Layouts\_layout_light_sidebar.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\Layouts\_layout_preloader.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_BlankLayout.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_footer.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_head_css.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_horizontal.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_Layout.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_page_title.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_right_sidebar.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_sidebar.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_title_meta.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_topbar.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_vendor_scripts.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Dell\source\repos\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_layout_ico_loading.cshtml.g.cs
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\libman.json
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\Skote.exe
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\Skote.deps.json
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\Skote.runtimeconfig.json
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\Skote.runtimeconfig.dev.json
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\Skote.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\Skote.pdb
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\Skote.Views.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\Skote.Views.pdb
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Skote\Skote\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.csprojAssemblyReference.cache
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.AssemblyInfoInputs.cache
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.AssemblyInfo.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.csproj.CoreCompileInputs.cache
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.MvcApplicationPartsAssemblyInfo.cache
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.RazorAssemblyInfo.cache
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.RazorAssemblyInfo.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\staticwebassets\Skote.StaticWebAssets.Manifest.cache
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\staticwebassets\Skote.StaticWebAssets.xml
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\scopedcss\bundle\Skote.styles.css
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.TagHelpers.input.cache
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.TagHelpers.output.cache
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.RazorCoreGenerate.cache
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\AuthLockScreen\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\AuthLogin\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\AuthRecoverpw\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\AuthRegister\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\Calendar\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ChartsApex\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ChartsChartjs\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ChartsEchart\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ChartsFlot\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ChartsKnob\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ChartsSparkline\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ChartsTui\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\Chat\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ContactsGrid\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ContactsList\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ContactsProfile\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\CryptoBuySell\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\CryptoExchange\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\CryptoIcoLanding\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\CryptoKycApplication\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\CryptoLending\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\CryptoOrders\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\CryptoWallet\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\DashboardCrypto\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\DashboardSaas\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EcommerceAddProduct\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EcommerceCart\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EcommerceCheckout\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EcommerceCustomers\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EcommerceOrders\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EcommerceProductDetail\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EcommerceProducts\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EcommerceShops\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EmailInbox\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EmailRead\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\FormAdvanced\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\FormEditors\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\FormElements\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\FormLayouts\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\FormMask\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\FormRepeater\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\FormUploads\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\FormValidation\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\FormWizard\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\FormXeditable\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\IconsBoxicons\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\IconsDripicons\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\IconsFontAwesome\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\IconsMaterialDesign\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\IndexRtl\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\index\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\InvoicesDetail\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\InvoicesList\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsBoxed\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsColoredSidebar\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsCompactSidebar\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsHBoxed\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsHColored\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsHorizontal\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsHTopbarLight\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsIconSidebar\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsLightSidebar\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsPreloader\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsScrollable\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\MapsGoogle\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\MapsLeaflet\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\MapsVector\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\Pages404\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\Pages500\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\PagesComingsoon\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\PagesFaqs\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\PagesMaintenance\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\PagesPricing\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\PagesStarter\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\PagesTimeline\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ProjectsCreate\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ProjectsGrid\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ProjectsList\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ProjectsOverview\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\TablesBasic\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\TablesDatatable\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\TablesEditable\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\TablesResponsive\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\TasksCreate\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\TasksKanban\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\TasksList\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiAlerts\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiButtons\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiCards\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiCarousel\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiColors\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiDropdowns\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiGeneral\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiGrid\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiImageCropper\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiImages\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiLightbox\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiModals\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiNotifications\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiProgressbars\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiRangeSlider\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiRating\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiSessionTimeout\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiSweetAlert\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiTabsAccordions\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiTypography\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiVideo\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\Error.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\Layouts\_layout_boxed.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\Layouts\_layout_colored_sidebar.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\Layouts\_layout_compact_sidebar.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\Layouts\_layout_horizontal.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\Layouts\_layout_icon_sidebar.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\Layouts\_layout_light_sidebar.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\Layouts\_layout_preloader.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_BlankLayout.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_footer.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_head_css.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_horizontal.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_Layout.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_layout_ico_loading.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_page_title.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_right_sidebar.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_sidebar.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_title_meta.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_topbar.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_vendor_scripts.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.RazorTargetAssemblyInfo.cache
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.RazorTargetAssemblyInfo.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.Views.pdb
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.csproj.CopyComplete
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.dll
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.pdb
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.genruntimeconfig.cache
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutHoriPreloader\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsHoriScrollable\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutVertical\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\AuthLockScreen2\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\AuthLogin2\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\AuthRecoverpw2\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\AuthRegister2\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\BlogDetails\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\BlogGrid\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\BlogList\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ConfirmMail2\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ConfirmMail\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EmailTemplateAlert\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EmailTemplateBasic\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EmailTemplateBilling\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EmailVerification2\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EmailVerification\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\FileManager\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\TwoStepVerification2\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\TwoStepVerification\Index.cshtml.g.cs
+D:\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\Layouts\_layout_horizontal_topbarlight.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\libman.json
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\Skote.exe
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\Skote.deps.json
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\Skote.runtimeconfig.json
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\Skote.runtimeconfig.dev.json
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\Skote.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\Skote.pdb
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\Skote.Views.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\Skote.Views.pdb
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.csprojAssemblyReference.cache
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\staticwebassets\Skote.StaticWebAssets.Manifest.cache
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\staticwebassets\Skote.StaticWebAssets.xml
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.MvcApplicationPartsAssemblyInfo.cache
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.RazorAssemblyInfo.cache
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.RazorAssemblyInfo.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.AssemblyInfoInputs.cache
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.AssemblyInfo.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.TagHelpers.input.cache
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.TagHelpers.output.cache
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.RazorCoreGenerate.cache
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\AuthLockScreen2\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\AuthLockScreen\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\AuthLogin2\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\AuthLogin\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\AuthRecoverpw2\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\AuthRecoverpw\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\AuthRegister2\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\AuthRegister\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\BlogDetails\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\BlogGrid\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\BlogList\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\Calendar\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ChartsApex\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ChartsChartjs\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ChartsEchart\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ChartsFlot\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ChartsKnob\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ChartsSparkline\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ChartsTui\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\Chat\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ConfirmMail2\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ConfirmMail\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ContactsGrid\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ContactsList\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ContactsProfile\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\CryptoBuySell\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\CryptoExchange\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\CryptoIcoLanding\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\CryptoKycApplication\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\CryptoLending\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\CryptoOrders\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\CryptoWallet\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\DashboardCrypto\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\DashboardSaas\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EcommerceAddProduct\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EcommerceCart\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EcommerceCheckout\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EcommerceCustomers\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EcommerceOrders\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EcommerceProductDetail\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EcommerceProducts\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EcommerceShops\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EmailInbox\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EmailRead\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EmailTemplateAlert\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EmailTemplateBasic\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EmailTemplateBilling\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EmailVerification2\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EmailVerification\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\FileManager\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\FormAdvanced\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\FormEditors\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\FormElements\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\FormLayouts\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\FormMask\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\FormRepeater\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\FormUploads\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\FormValidation\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\FormWizard\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\FormXeditable\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\IconsBoxicons\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\IconsDripicons\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\IconsFontAwesome\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\IconsMaterialDesign\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\IndexRtl\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\index\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\InvoicesDetail\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\InvoicesList\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutHoriPreloader\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsBoxed\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsColoredSidebar\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsCompactSidebar\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsHBoxed\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsHColored\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsHoriScrollable\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsHorizontal\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsHTopbarLight\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsIconSidebar\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsLightSidebar\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsPreloader\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsScrollable\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutVertical\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\MapsGoogle\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\MapsLeaflet\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\MapsVector\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\Pages404\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\Pages500\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\PagesComingsoon\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\PagesFaqs\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\PagesMaintenance\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\PagesPricing\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\PagesStarter\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\PagesTimeline\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ProjectsCreate\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ProjectsGrid\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ProjectsList\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ProjectsOverview\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\TablesBasic\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\TablesDatatable\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\TablesEditable\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\TablesResponsive\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\TasksCreate\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\TasksKanban\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\TasksList\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\TwoStepVerification2\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\TwoStepVerification\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiAlerts\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiButtons\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiCards\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiCarousel\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiColors\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiDropdowns\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiGeneral\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiGrid\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiImageCropper\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiImages\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiLightbox\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiModals\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiNotifications\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiProgressbars\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiRangeSlider\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiRating\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiSessionTimeout\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiSweetAlert\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiTabsAccordions\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiTypography\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiVideo\Index.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\Error.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\Layouts\_layout_boxed.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\Layouts\_layout_colored_sidebar.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\Layouts\_layout_compact_sidebar.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\Layouts\_layout_horizontal.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\Layouts\_layout_horizontal_topbarlight.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\Layouts\_layout_icon_sidebar.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\Layouts\_layout_light_sidebar.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\Layouts\_layout_preloader.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_BlankLayout.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_footer.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_head_css.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_horizontal.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_Layout.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_layout_ico_loading.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_page_title.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_right_sidebar.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_sidebar.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_title_meta.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_topbar.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_vendor_scripts.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.RazorTargetAssemblyInfo.cache
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.RazorTargetAssemblyInfo.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.Views.pdb
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.csproj.CopyComplete
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.dll
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Skote.pdb
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\Layouts\_layout_horizontal_boxed.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\Layouts\_layout_horizontal_colored.cshtml.g.cs
+E:\Project\RK\testing\Skote Asp.net Core\Skote\Skote\obj\Debug\netcoreapp3.1\Razor\Views\DashboardBlog\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\package.json
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\Skote.exe
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\Skote.deps.json
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\Skote.runtimeconfig.json
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\Skote.runtimeconfig.dev.json
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\Skote.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\Skote.pdb
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\Skote.Views.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\Skote.Views.pdb
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Skote.csprojAssemblyReference.cache
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Skote.AssemblyInfoInputs.cache
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Skote.AssemblyInfo.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Skote.csproj.CoreCompileInputs.cache
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Skote.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Skote.RazorAssemblyInfo.cache
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Skote.RazorAssemblyInfo.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Skote.TagHelpers.input.cache
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Skote.TagHelpers.output.cache
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Skote.RazorCoreGenerate.cache
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\AuthLockScreen2\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\AuthLockScreen\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\AuthLogin2\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\AuthLogin\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\AuthRecoverpw2\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\AuthRecoverpw\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\AuthRegister2\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\AuthRegister\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\BlogDetails\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\BlogGrid\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\BlogList\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\Calendar\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ChartsApex\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ChartsChartjs\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ChartsEchart\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ChartsFlot\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ChartsKnob\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ChartsSparkline\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ChartsTui\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\Chat\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ConfirmMail2\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ConfirmMail\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ContactsGrid\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ContactsList\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ContactsProfile\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\CryptoBuySell\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\CryptoExchange\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\CryptoIcoLanding\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\CryptoKycApplication\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\CryptoLending\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\CryptoOrders\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\CryptoWallet\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\DashboardBlog\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\DashboardCrypto\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\DashboardSaas\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EcommerceAddProduct\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EcommerceCart\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EcommerceCheckout\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EcommerceCustomers\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EcommerceOrders\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EcommerceProductDetail\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EcommerceProducts\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EcommerceShops\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EmailInbox\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EmailRead\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EmailTemplateAlert\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EmailTemplateBasic\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EmailTemplateBilling\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EmailVerification2\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\EmailVerification\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\FileManager\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\FormAdvanced\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\FormEditors\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\FormElements\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\FormLayouts\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\FormMask\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\FormRepeater\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\FormUploads\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\FormValidation\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\FormWizard\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\FormXeditable\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\IconsBoxicons\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\IconsDripicons\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\IconsFontAwesome\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\IconsMaterialDesign\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\IndexRtl\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\index\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\InvoicesDetail\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\InvoicesList\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutHoriPreloader\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsBoxed\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsColoredSidebar\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsCompactSidebar\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsHBoxed\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsHColored\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsHoriScrollable\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsHorizontal\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsHTopbarLight\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsIconSidebar\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsLightSidebar\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsPreloader\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutsScrollable\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\LayoutVertical\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\MapsGoogle\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\MapsLeaflet\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\MapsVector\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\Pages404\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\Pages500\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\PagesComingsoon\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\PagesFaqs\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\PagesMaintenance\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\PagesPricing\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\PagesStarter\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\PagesTimeline\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ProjectsCreate\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ProjectsGrid\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ProjectsList\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\ProjectsOverview\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\TablesBasic\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\TablesDatatable\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\TablesEditable\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\TablesResponsive\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\TasksCreate\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\TasksKanban\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\TasksList\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\TwoStepVerification2\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\TwoStepVerification\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiAlerts\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiButtons\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiCards\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiCarousel\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiColors\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiDropdowns\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiGeneral\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiGrid\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiImageCropper\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiImages\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiLightbox\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiModals\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiNotifications\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiProgressbars\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiRangeSlider\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiRating\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiSessionTimeout\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiSweetAlert\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiTabsAccordions\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiTypography\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\UiVideo\Index.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\Error.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\Layouts\_layout_boxed.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\Layouts\_layout_colored_sidebar.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\Layouts\_layout_compact_sidebar.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\Layouts\_layout_horizontal.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\Layouts\_layout_horizontal_boxed.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\Layouts\_layout_horizontal_colored.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\Layouts\_layout_horizontal_topbarlight.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\Layouts\_layout_icon_sidebar.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\Layouts\_layout_light_sidebar.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\Layouts\_layout_preloader.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_BlankLayout.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_footer.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_head_css.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_horizontal.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_Layout.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_layout_ico_loading.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_page_title.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_right_sidebar.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_sidebar.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_title_meta.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_topbar.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_Shared\_vendor_scripts.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Skote.RazorTargetAssemblyInfo.cache
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Skote.RazorTargetAssemblyInfo.cs
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Skote.Views.pdb
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Skote.csproj.CopyComplete
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\staticwebassets\Skote.StaticWebAssets.Manifest.cache
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\staticwebassets\Skote.StaticWebAssets.xml
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Skote.dll
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Skote.pdb
+C:\Users\Palagar\Desktop\themeforest-4i6WPWNG-skote-aspnet-mvc5\Skote_MVC_v2.1.0\Skote Asp.net Core\Skote\obj\Debug\netcoreapp3.1\Skote.genruntimeconfig.cache
